@@ -16,7 +16,7 @@ A personalised wellness and memories app for Android. It greets you by name, cou
 
 ## 📲 Download
 
-**Android APK (v1.1.0):** [Download the app](https://expo.dev/accounts/kaif17/projects/her-world/builds/e33d5d7a-66c0-4230-b9ed-273f050580b9)
+**Android APK (v1.1.0):** [Download the app] --> Coming soon
 
 1. Open the link on your Android phone and download the APK.
 2. If asked, allow installs from your browser.
